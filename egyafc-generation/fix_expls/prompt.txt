@@ -1,0 +1,95 @@
+You are an extremely attentive and critical annotator with background in stylometry and linguistics. 
+You will be provided with an informal sentence. You will also be provided with an explanation of its informality attributes. 
+Decide whether the explanation is incorrect, and if so, describe what attributes were listed incorrectly. 
+
+EXAMPLES:
+
+Informal Sentence: just tell him to stop calling you at work!!
+Informal Attributes: imperative tone ("just tell him"), exclamation marks ("work!!")
+Attributes Listed Incorrectly: None
+
+Informal Sentence: normally people arnt so good in a relationship when they have the same sign try a tarrus
+Informal Attributes: contractions ("arnt"), textese ("tarrus"), slang ("try a tarrus"), colloquialism ("normally people", "so good").
+Attributes Listed Incorrectly: slang ("try a tarrus" could simply mean "try a Taurus," which might be a bit informal but doesn't sound like slang)
+
+Informal Sentence: Just keep going till your done.
+Informal Attributes: contraction ("till"), abbreviated form ("your"), casual tone ("just keep going")
+Attributes Listed Incorrectly: None
+
+Informal Sentence: Look,  If you really like this person,  just tell her.
+Informal Attributes: colloquialism ("just tell her"), contraction ("If you"), simple sentence structure
+Attributes Listed Incorrectly: contraction ("If you" is not a contraction)
+
+Informal Sentence: At a very young age I found myself attracted to women.
+Informal Attributes: personal pronoun ("myself"), simple past tense ("found")
+Attributes Listed Incorrectly: simple past tense ("found myself" might actually sound more formal than possible alternatives, such as "became" or "started to be")
+
+Informal Sentence: I have been married 11 years and I tell you I fall in love with him over and over!!
+Informal Attributes: personal pronoun ("I"), exclamation ("I tell you"), numeral ("11")
+Attributes Listed Incorrectly: personal pronoun ("I" is present in both examples)
+
+Informal Sentence: no, love does not have eyes.
+Informal Attributes: simple sentence structure ("No, love does not have eyes.")
+Attributes Listed Incorrectly: None
+
+Informal Sentence: OMG so ask him to go study with you in libary!
+Informal Attributes: textese ("OMG", "libary"), slang ("ask him to go study with you"), exclamation ("OMG")
+Attributes Listed Incorrectly: slang ("ask him to go study with you" does have an informal tone, but it is not a slang usage), textese as it relates to "libary" (that form could be viewed as a simple error)
+
+Informal Sentence: He definitely wants you if he carries your stuff.
+Informal Attributes: casual tone, simple sentence structure
+Attributes Listed Incorrectly: None
+
+Informal Sentence: let me know what you think.
+Informal Attributes: one-word command ("let")
+Attributes Listed Incorrectly: one-word command (the words "me know" also form part of the imperative)
+
+Informal Sentence: When you do not have to sneak
+Informal Attributes: short sentence ("When you do not have to sneak"), use of contractions ("don't")
+Attributes Listed Incorrectly: use of contractions (the full form "do not" is present)
+
+Informal Sentence: a hand made card for her with lots of love
+Informal Attributes: simple sentence structure, casual tone
+Attributes Listed Incorrectly: None
+
+Informal Sentence: Get out now while your young and have a chance to start over wiser...
+Informal Attributes: sentence fragment ("get out now"), colloquialism ("while your young"), omission of words ("to start over wiser")
+Attributes Listed Incorrectly: sentence fragment ("Get out now" is not a fragment)
+
+Informal Sentence: But I guess that's in the past, what's really important is your life NOW.
+Informal Attributes: contraction ("that's"), textese ("what's"), capitalization ("NOW")
+Attributes Listed Incorrectly: textese ("what's" is another contraction and is not specific to the world of texting)
+
+Informal Sentence: give it another try, sometimes it takes time, if u like em dont give up
+Informal Attributes: textese ("u", "dont", "em"), contraction ("it's"), and colloquialism ("give it another try", "if u like em").
+Attributes Listed Incorrectly: contraction ("it's" doesn't occur; the only contraction is "dont")
+
+Informal Sentence: but dont make it sounds like your jealous.
+Informal Attributes: contraction ("don't"), personal pronoun ("your"), non-standard verb conjugation ("make it sounds"), conjunction ("but"), comparison ("like")
+Attributes Listed Incorrectly: None
+
+Informal Sentence: Some girls like it but I am willing to say that most do not.
+Informal Attributes: contraction ("I'm"), informal expressions ("most do not", "girls like it"), personal language ("I am willing to say")
+Attributes Listed Incorrectly: contraction (the sentence contains the full form "I am")
+
+Informal Sentence: Sweetie, you don't have to date anyone you don't want to.
+Informal Attributes: contraction ("don't"), diminutive term of address ("Sweetie")
+Attributes Listed Incorrectly: None
+
+Informal Sentence: if she just wants the attention, shell answer right then.
+Informal Attributes: contraction ("she'll"), simple sentence structure, colloquial expression
+Attributes Listed Incorrectly: None
+
+Informal Sentence: Renee' I was going to type the same thing, but I saw you had done it...LOL
+Informal Attributes: textese ("LOL"), contractions ("I was"), abbreviation ("Renee'"), colloquialism ("going to type the same thing"), informality in syntax and sentence construction ("I was going to type the same thing, but I saw you had done it").
+Attributes Listed Incorrectly: contractions ("I was" is not a contraction), abbreviation ("Renee'", with the apostrophe, looks like a simple typographical error)
+
+Informal Sentence: My sis and bro keep bugging me and I keep asking them to stop bugging me.
+Informal Attributes: informal vocabulary ("sis", "bro", "bugging"), repetition ("keep bugging me", "keep asking them")
+Attributes Listed Incorrectly: None
+
+Informal Sentence: He's a cheating ******* and using you too!
+Informal Attributes: contraction ("He's"), colloquialism ("*******")
+Attributes Listed Incorrectly: None
+
+Below is the sentence for your annotation:

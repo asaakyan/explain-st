@@ -1,0 +1,46 @@
+Here is a list of attributes that can help identify a formal sentence:
+Complete words:
+   - Formal: "you"
+   - Informal: "u"
+No contractions:
+   - Formal: "cannot"
+   - Informal: "can't"
+Lexical sophistication:
+   - Formal: "purchase"
+   - Informal: "buy"
+No slang or colloquialisms:
+   - Formal: "Hello"
+   - Informal: "Hey"
+Neutral tone:
+   - Formal: "The results were positive."
+   - Informal: "The results were awesome."
+Passive voice: 
+   - Formal: "The report was submitted."
+   - Informal: "I submitted the report."
+Formal greetings and sign-offs:
+   - Formal: "Dear Sir/Madam"
+   - Informal: "Hi there"
+Complex sentence structures:
+   - Formal: "Despite the challenges, the project succeeded."
+   - Informal: "The project had challenges, but it succeeded."
+No exclamations:
+   - Formal: "I am excited."
+   - Informal: "I am excited!"
+Impersonal pronouns: Use third-person pronouns.
+   - Formal: "one"
+   - Informal: "you"
+Formal imperatives: Use polite commands.
+   - Formal: "Please submit the report."
+   - Informal: "Send the report."
+Indirect questions: Use indirect question forms.
+   - Formal: "Could you tell me the time?"
+   - Informal: "What time is it?"
+No informal punctuation: Avoid dashes, ellipses, etc.
+   - Formal: "The project was delayed."
+   - Informal: "The project was delayed..."
+Cautious language: Express uncertainty or hedging.
+   - Formal: "It appears that"
+   - Informal: "It seems like"
+Clear, logical structure: Present ideas in a coherent, organized manner.
+   - Formal: "Firstly, secondly, finally"
+   - Informal: "First, next, last"

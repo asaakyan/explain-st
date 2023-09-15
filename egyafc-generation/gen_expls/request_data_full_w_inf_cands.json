@@ -1,0 +1,39 @@
+{
+    "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert forensic linguist. Your task is to identify infromal attributes in a setnece, modify them to create a formal sentence, and then output the attributes of the generated formal sentence. Use the following format: attribute (excertp from text in quotation marks). Make sure to provide a complete list of informal and formal atttributes. Focus on what has changed between formal and informal sentences. Informal writing tends to be more casual, personal, and conversational than formal writing. Here are some common features of informal writing:\n\nContractions: Informal writing often uses contractions, such as \"I'm,\" \"can't,\" \"won't,\" and \"they've,\" which are generally avoided in formal writing.\n\nColloquial language: Informal writing might include slang, regional expressions, or colloquialisms that are not typically found in formal writing.\n\nSimple sentence structures: Sentences in informal writing tend to be shorter and less complex than those in formal writing.\n\nInformal punctuation: In informal writing, punctuation such as exclamation marks, ellipses, and dashes may be used more frequently and casually.\n\nPersonal pronouns: First and second person pronouns (e.g., \"I,\" \"we,\" \"you\") are more common in informal writing, as it often aims to establish a personal connection with the reader.\n\nInformal tone: The tone of informal writing is generally more conversational, casual, and sometimes even humorous.\n\nAbbreviations and acronyms: Informal writing may use abbreviations and acronyms, such as \"LOL,\" \"OMG,\" or \"BTW,\" which are typically avoided in formal writing.\n\nEmotive language: Informal writing often contains more emotionally-charged language, including subjective opinions, feelings, and personal anecdotes.\n\nLess strict grammar: Informal writing may not adhere as strictly to the rules of grammar, and may include sentence fragments, run-on sentences, or nonstandard syntax.\n\nInformal greetings and sign-offs: Informal writing often uses casual greetings, such as \"Hi\" or \"Hey,\" and sign-offs like \"Cheers\" or \"Take care.\""
+        },
+        {
+          "role": "user",
+          "content": "Informal: if ur under 18 u have a BIG PROBLEM.\nInformal Candidates: {'18', 'BIG', 'PROBLEM.', 'if', 'u', 'ur}"
+        },
+        {
+          "role": "assistant",
+          "content": "Attributes of Informal Style: textese (\"ur\", \"u\"), capitalization (\"BIG PROBLEM\"), colloquialism (\"BIG PROBLEM\")\nFormal: If you are under eighteen years of age, you have a significant problem.\nFormal Candidates: {'If','age,','are','eighteen','of','problem.','significant','years','you'}\nAttributes of Formal Style: precise language (\"under eighteen years of age\"), lexical sophistication (\"significant problem\"), absence of contractions (\"you are\")."
+        },
+
+        {
+          "role": "user",
+          "content": "Informal: maebi that's just hu he is.\nInformal Candidates: {'he', 'hu', 'just', 'maebi', 'thats'}"
+        },
+        {
+          "role": "assistant",
+          "content": "Attributes of Informal Style: textese (\"hu\", \"maebi\"), contraction (\"that's\"), colloquialism (\"just hu he is\")\nFormal: Perhaps that is simply his identity.\nFormal Candidates: {'Perhaps', 'his', 'identity', 'simply', 'that'}\nAttributes of Formal Style: lexical sophistication (\"perhaps\", \"simply his identity\"), absence of contractions (\"that is\")."
+        },
+ 
+        {
+          "role": "user",
+          "content": "Informal: go out with him once and if u liked that date then duh stay with him.\nInformal Candidates: {'duh', 'go', 'liked', 'out', 'stay', 'u'}"
+        },
+        {
+          "role": "assistant",
+          "content": "Attributes of Informal Style: textese (\"u\"), slang (\"duh\"), colloquialism (\"go out with him\", \"stay with him\")\nFormal: Go on a date with him once and if you enjoyed that instance, then continue your relationship with him.\nFormal Candidates: {'enjoyed', 'you', 'instance', 'Go', 'on', 'your', 'relationship', 'a', 'continue'}\nAttributes of Formal Style: conditional clause (\"if you enjoyed that instance\"), clear logical structure (\"if ... then\"), lexical sophistication (\"enjoyed that instance\", \"continue your relationship\")."
+        },
+
+        {
+        "role": "user",
+        "content": ""
+        }
+        ]
+  }
