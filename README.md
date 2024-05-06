@@ -33,4 +33,16 @@ Research-related questions can be directed to Arkadiy Saakyan (a.saakyan@cs.colu
 ## Citation
 
 If you find this project useful, please cite us as follows:
-TBD
+```
+@misc{saakyan2023iclef,
+      title={ICLEF: In-Context Learning with Expert Feedback for Explainable Style Transfer}, 
+      author={Arkadiy Saakyan and Smaranda Muresan},
+      year={2023},
+      eprint={2309.08583},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+## Acknowledgements
+This research is supported in part by the Office of the Director of National Intelligence (ODNI), Intelligence Advanced Research Projects Activity (IARPA), via the HIATUS Program contract #2022-22072200005. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies, either expressed or implied, of ODNI, IARPA, or the U.S. Government. The U.S. Government is authorized to reproduce and distribute reprints for governmental purposes notwithstanding any copyright annotation therein.
